@@ -1,0 +1,22 @@
+{
+  "name": "nomicon",
+  "version": "1.0.0",
+  "description": "So",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikl/nomicon.git"
+  },
+  "keywords": [
+    "app"
+  ],
+  "author": "Mikkel Hoegh <mikkel@hoegh.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikl/nomicon/issues"
+  },
+  "homepage": "https://github.com/mikl/nomicon#readme"
+}
